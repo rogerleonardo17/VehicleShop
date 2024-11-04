@@ -1,5 +1,5 @@
 # VehicleShop
-A Java console application to manage a vehicle inventory, allowing users to add, view, and remove Cars and Motorcycles with unique IDs and calculated prices.
+A Java console application to manage a vehicle inventory, allowing users to add, view, and remove Cars and Motorcycles with unique IDs and calculated prices. Built with Java and incorporates Object-Oriented Programming principles such as Encapsulation, Inheritance, and Polymorphism.
 
 # Features
 - Add Vehicle: Input details for Cars and Motorcycles, including attributes like seats or helmet type.
